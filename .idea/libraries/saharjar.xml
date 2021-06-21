@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="saharjar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lids/saharjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
